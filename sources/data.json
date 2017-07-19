@@ -1,0 +1,10 @@
+{
+	"comments": "Here are some comments",
+	"blf": "This is some booked load factor",
+	"atc": "This is some air traffic control",
+	"weather": "This is some weather stuff",
+	"diversions": "Here are some diversions",
+	"cancellations": "Here are some cancellations",
+	"ots": "This means out of service",
+	"spares": "These are some nice spares"
+}

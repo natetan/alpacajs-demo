@@ -1,0 +1,37 @@
+{
+	"fields": {
+		"comments": {
+			"placeholder": "Please enter some comments here.",
+			"type": "textarea",
+			"rows": 3
+		},
+		"blf": {
+			"type": "textarea",
+			"rows": 3
+		},
+		"atc": {
+			"type": "textarea",
+			"rows": 3
+		},
+		"weather": {
+			"type": "textarea",
+			"rows": 3
+		},
+		"diversions": {
+			"type": "textarea",
+			"rows": 3
+		},
+		"cancellations": {
+			"type": "textarea",
+			"rows": 3
+		},
+		"ots": {
+			"type": "textarea",
+			"rows": 3
+		},
+		"spares": {
+			"type": "textarea",
+			"rows": 3
+		},
+	}
+}
