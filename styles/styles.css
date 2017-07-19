@@ -1,5 +1,5 @@
 body {
-	background-color: tan;	
+	background-color: #01426a;	
 }
 
 #main-content {
@@ -13,4 +13,26 @@ body {
 
 #main-header {
 	text-align: center;
+}
+
+#verify-button {
+	width: 200px;
+	height: 44px;
+	font-size: 14px;
+	font-weight: bold;
+	letter-spacing: 0.2px;
+	text-align: center;
+	background-color: #48850b;
+	box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.3);
+}
+
+.verify {
+	width: 200px;
+	height: 16px;
+	font-family: arial;
+	font-size: 14px;
+	font-weight: bold;
+	letter-spacing: 0.3px;
+	text-align: center;
+	color: #ffffff;
 }
