@@ -138,6 +138,7 @@ $(document).ready(function() {
 	function test() {
 		console.log('button was clicked');
 		var val = this.getValue();
+		console.log('Testing val: ' + val.comments);
 		if (this.isValid(true)) {
 			alert("Valid value: " + JSON.stringify(val, null, "  "));
 		} else {
