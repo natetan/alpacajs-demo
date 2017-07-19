@@ -84,6 +84,13 @@ $(document).ready(function() {
 					'rows': 3
 				},
 			}
+		},
+		'postRender': function(control) {
+			control.childrenByPropertyId['comments'].getFieldEl().css({
+				'background-color': 'cyan',
+				'font-size': '20px',
+				'font-family': 'helvetica'
+			})
 		}
 	});
 
